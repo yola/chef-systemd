@@ -1,3 +1,7 @@
+# 3.2.6 / 2024-05-17
+
+* pin rexml as a result of https://github.com/ruby/rexml/issues/131
+
 # 3.2.5 / 2021-05-07
 
 * fix keyword arguments in chef 17
